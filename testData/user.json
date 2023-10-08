@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hritik",
+    "email": "hritik@gmail.com",
+    "password": "password"
+  },
+  {
+    "name": "Pratik",
+    "email": "pratik@gmail.com",
+    "password": "password"
+  },
+  {
+    "name": "Priya",
+    "email": "priya@gmail.com",
+    "password": "password"
+  },
+  {
+    "name": "Raju",
+    "email": "raju@gmail.com",
+    "password": "password"
+  },
+  {
+    "name": "Nobita",
+    "email": "nobita@gmail.com",
+    "password": "password"
+  },
+  {
+    "name": "Sunio",
+    "email": "sunio@gmail.com",
+    "password": "password"
+  },
+  {
+    "name": "bheem",
+    "email": "bheem@gmail.com",
+    "password": "password"
+  },
+  {
+    "name": "dora",
+    "email": "dora@gmail.com",
+    "password": "password"
+  }
+]

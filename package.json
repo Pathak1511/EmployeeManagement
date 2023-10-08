@@ -1,0 +1,33 @@
+{
+  "name": "top-10",
+  "version": "1.0.0",
+  "description": "weekly latest top 10 app project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js",
+    "start:prod": "SET NODE_ENV=production && nodemon server.js"
+  },
+  "author": "Hritik Pathak",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.3",
+    "express-rate-limit": "^6.1.0",
+    "helmet": "^5.0.1",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "slugify": "^1.6.5",
+    "xss-clean": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engine": {
+    "node": ">=10.0.0"
+  }
+}
