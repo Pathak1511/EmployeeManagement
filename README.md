@@ -28,6 +28,8 @@ Content-Type: application/json
 }
 ```
 
+##### Step 1 : Create Database [Sql Command](https://github.com/Pathak1511/EmployeeManagement/blob/main/testData/employee.md)
+
 ##### Endpoints
 
 ##### Create Employee
